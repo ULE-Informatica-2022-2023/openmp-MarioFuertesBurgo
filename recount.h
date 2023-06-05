@@ -21,6 +21,8 @@ public:
     int get_v_cast();
     int get_abstentions();
     int get_census();
+    float get_p_participation();
+    float get_p_abstention();
     /**
      * @brief Print information of the
      */
